@@ -1,0 +1,5 @@
+@include('merchant.layout.header')
+@include('merchant.layout.sidebar')
+@include('merchant.layout.navbar')
+@yield('content')
+@include('merchant.layout.footer')
